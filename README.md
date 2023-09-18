@@ -3,4 +3,4 @@
 -  Verificação de Memoria
 -  Verificação de RAM
 
-Utilizados durante o programa em java.
+Utilizados durante alguns algoritimos de busca implementados em java.
