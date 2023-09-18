@@ -1,1 +1,4 @@
-# Java em Algoritimos de Busca Memoria e verificação de bytes
+# Java em Algoritimos de Busca
+-Verificação de Memoria
+-Verificação de RAM
+Utilizados durante o programa em java.
